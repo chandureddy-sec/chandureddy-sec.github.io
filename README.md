@@ -21,7 +21,7 @@ One static HTML file with inline CSS and about 80 lines of JavaScript. There is 
 | `favicon.svg`, `og.png` | Tab icon and social-preview image |
 | `resume.pdf` | Downloadable résumé |
 
-Features: light and dark themes (follows the system, with a toggle that remembers the choice), keyboard-operable walkthrough, visible focus states, reduced-motion support, responsive down to 360 px.
+Features: light and dark themes (follows the system, with a toggle that remembers the choice), keyboard-operable walkthrough, a rotating "open to roles" tag with a pause control, a Hyderabad local-time chip, a scroll-linked experience timeline, visible focus states, reduced-motion support, responsive down to 360 px.
 
 ## Run it locally
 
