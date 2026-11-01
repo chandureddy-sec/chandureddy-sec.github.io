@@ -17,7 +17,7 @@ One static HTML file with inline CSS and about 80 lines of JavaScript. There is 
 | Path | Purpose |
 |---|---|
 | `index.html` | The whole site |
-| `fonts/` | Self-hosted Archivo, Source Serif 4 and IBM Plex Mono (SIL Open Font License, see `fonts/README.md`) |
+| `fonts/` | Self-hosted Onest and IBM Plex Mono (SIL Open Font License, see `fonts/README.md`) |
 | `favicon.svg`, `og.png` | Tab icon and social-preview image |
 | `resume.pdf` | Downloadable résumé |
 
